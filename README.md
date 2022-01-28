@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Benmuiruri
-- 👀 I’m interested in writing beautiful code 
-- 🌱 I’m currently learning React. 
+- 👋 Hi, I’m Benjamin Kiarie
+- 👀 I’m interested in writing beautiful code that has real-world impacts
+- 🌱 I’m currently learning to build cool stuff @microverse. 
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me ben@benkiarie.live
 
