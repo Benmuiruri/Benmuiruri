@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Kiarie
+- 👋 Hi, I’m Benjamin Muiruri
 - 👀 I’m interested in writing beautiful code that has real-world impacts
 - 🌱 I’m currently learning to build cool stuff @microverse. 
 - 💞️ I’m looking to collaborate on React projects
