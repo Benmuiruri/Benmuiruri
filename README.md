@@ -9,6 +9,8 @@
 
 - :ok_man: Currently building cool stuff at Microverse Inc as a full-stack software engineer.
 - :rocket: When I am not writing code I am doing some DeFi stuff.
+- :fire: I have a passion for web3, AI, mathematics, physics and more.
+- :dart: My current goal is to become a highly skilled full-stack developer in order to create the future of human interaction and coordination.
 - :email: You can reach me via mail: ben@benkiarie.live
 
 
