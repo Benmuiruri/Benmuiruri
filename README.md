@@ -21,9 +21,14 @@
 <h3><a href="https://www.linkedin.com/in/benjamin-kiarie-180b66149/"><img src="https://user-images.githubusercontent.com/79658534/155697061-56d45708-ad01-4ffc-9697-570007606fd3.png" width="20px">&nbsp &nbspBenjamin (Muiruri) Kiarie</a></h3></ul>
 </div>
 
+### Stats
+  
+|                                                      **My Github Stats**                                                      |                                                      **My Streak**                                                      |                                                      **Languages**                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benmuiruri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Benmuiruri) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benmuiruri&theme=tokyonight)](https://github.com/Benmuiruri) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benmuiruri&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Benmuiruri) |
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benmuiruri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Benmuiruri)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benmuiruri&theme=tokyonight)](https://github.com/Benmuiruri)<br>
+<br />
+
 ## Technologies & Tools
 
 <p align="left">
