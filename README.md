@@ -9,7 +9,7 @@
 
 - :ok_man: Currently building cool stuff at Microverse Inc as a full-stack software engineer.
 - :rocket: When I am not writing code I am doing some DeFi stuff.
-- :fire: I have a passion for web3, AI, and more.
+- :fire: I have a passion for Ruby on Rails, Web3, and more.
 - :dart: My current goal is to become a professionally skilled full-stack developer creating a better future for everyone
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
 <h1 align="center">Let's Connect</h1>
