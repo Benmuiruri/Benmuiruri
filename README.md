@@ -14,12 +14,18 @@
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
 <h1 align="center">Let's Connect</h1>
 
-<div align="center">
-<ul>
-<h3><a href="https://twitter.com/_optimize" target="_blank"><img src="https://user-images.githubusercontent.com/79658534/150798648-38f1ed89-848c-4e24-9395-c748b2adeff7.png" width="20px">&nbsp &nbsp@_optimize</a></h3> 
-<h3><a href="mailto:ben.muiruri13@gmail.com"><img src="https://user-images.githubusercontent.com/79658534/155697385-9f83bc34-bd2a-4338-9394-c83ee8be9896.png" width="20px">&nbsp &nbspben.muiruri13@gmail.com</a></h3>
-<h3><a href="https://www.linkedin.com/in/benjamin-kiarie-180b66149/"><img src="https://user-images.githubusercontent.com/79658534/155697061-56d45708-ad01-4ffc-9697-570007606fd3.png" width="20px">&nbsp &nbspBenjamin (Muiruri) Kiarie</a></h3></ul>
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/benjamin-kiarie-180b66149/">
+        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23fd1315?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="https://twitter.com/_optimize">
+        <img alt="Follow me" src="https://img.shields.io/twitter/follow/_optimize?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+    </a>
+    <a href="mailto:ben.muiruri13@gmail.com">
+        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23fd1315?style=for-the-badge&logo=Mail.Ru">
+    </a>
+</p>
+
 
 ### Stats
   
