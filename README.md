@@ -7,10 +7,10 @@
 
 <h1 align="center">Hey there! I'm Ben Muiruri 👋 also known as (Optimize Prime)</h1>
 
-- :ok_man: Currently building cool stuff at Microverse Inc as a full-stack software engineer.
-- :rocket: When I am not writing code I am doing some DeFi stuff.
+- :ok_man: Currently building cool stuff as a full-stack software engineer.
+- :rocket: When I am not writing code, I am curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, Web3, and more.
-- :dart: My current goal is to become a professionally skilled full-stack developer creating a better future for everyone by translating ideas into tangible solutions.
+- :dart: My current goal is to work as a full-stack developer, translating ideas into tangible solutions, building solutions using the latest web technologies
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
 <h1 align="center">Let's Connect</h1>
 
@@ -21,9 +21,7 @@
     <a href="https://twitter.com/_optimize">
         <img alt="Follow me" src="https://img.shields.io/twitter/follow/_optimize?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
-    <a href="mailto:ben.muiruri13@gmail.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23fd1315?style=for-the-badge&logo=Mail.Ru">
-    </a>
+    <a href="https://benmuiruri.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
 </p>
 
 
