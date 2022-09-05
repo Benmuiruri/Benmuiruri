@@ -21,7 +21,7 @@
     <a href="https://twitter.com/_optimize">
         <img alt="Follow me" src="https://img.shields.io/twitter/follow/_optimize?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
-    <a href="https://benmuiruri.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+    <a href="https://benmuiruri.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColorzz=white alt="Portfolio" /></a>&nbsp;
 </p>
 
 
@@ -32,10 +32,9 @@
 | [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benmuiruri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Benmuiruri) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benmuiruri&theme=tokyonight)](https://github.com/Benmuiruri) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benmuiruri&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Benmuiruri) |
 
 <br />
+<h2 align="center">Technologies & Tools</h2>
 
-## Technologies & Tools
-
-<p align="left">
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -51,7 +50,8 @@
     </p>
     </br>
 
-### Learn Enough Certificates
+<h2 align="center">Learn Enough Certificates</h2>
 </br>
-
+<p align="center">
 <a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+</p>
