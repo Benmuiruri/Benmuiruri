@@ -5,7 +5,7 @@
 </h3>
 
 
-<h1 align="center">Hey there! I'm Ben Muiruri 👋 also known as (Optimize Prime)</h1>
+<h1 align="center">Hey there! I'm Ben Kiarie 👋 </h1>
 
 - :ok_man: Currently building cool stuff as a full-stack software engineer.
 - :rocket: When I am not writing code, I am curiously interacting with DeFi applications or out enjoying nature.
