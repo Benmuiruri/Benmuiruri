@@ -8,7 +8,7 @@
 <h1 align="center">Hey there! I'm Ben Kiarie 👋 </h1>
 
 - :ok_man: Currently building cool stuff as a full-stack software engineer.
-- :rocket: When I am not writing code, I am curiously interacting with DeFi applications or out enjoying nature.
+- :rocket: When I am not writing code, I am either watching sports (F1 and Soccer), curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, Web3, and more.
 - :dart: My current goal is to work as a full-stack developer, translating ideas into tangible solutions as I build solutions using the latest web technologies.
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
