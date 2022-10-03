@@ -10,6 +10,7 @@
 - :ok_man: Currently building cool stuff as a full-stack software engineer.
 - :rocket: When I am not writing code, I am either watching sports (F1 and Soccer), curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, React, and TypeScript.
+- :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
 - :dart: My current goal is to work as a full-stack developer, translating ideas into tangible solutions as I build solutions using the latest web technologies.
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
 <h1 align="center">Let's Connect</h1>
