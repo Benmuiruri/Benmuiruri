@@ -23,7 +23,7 @@
     <a href="https://twitter.com/_optimize">
         <img alt="Follow me" src="https://img.shields.io/twitter/follow/_optimize?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
-    <a href="https://benmuiruri.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColorzz=white alt="Portfolio" /></a>&nbsp;
+    <a href="https://benkiarie.live/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColorzz=white alt="Portfolio" /></a>&nbsp;
 </p>
 
 
