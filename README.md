@@ -12,7 +12,7 @@
 - :rocket: When I am not writing code, I am either watching sports (F1 and Soccer), curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, React, and TypeScript.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
-- :dart: My current goal is to work as a full-stack developer, translating ideas into optimal solutions and drive implementation that makes a real business impact.
+- :dart: My current goal is to level up my system design skills to write cleaner code.
 - :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
 <h1 align="center">Let's Connect</h1>
 
@@ -52,8 +52,10 @@
     </p>
     </br>
 
-<h2 align="center">Learn Enough Certificates</h2>
+<h2 align="center">Certificates</h2>
+[React](https://www.udemy.com/certificate/UC-a3eb4d48-60ab-47a8-a4f6-11180c319e89/)
 </br>
-<p align="center">
-<a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+<p>
+<a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a
 </p>
+
