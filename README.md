@@ -53,7 +53,8 @@
     </br>
 
 <h2 align="center">Certificates</h2>
-[React](https://www.udemy.com/certificate/UC-a3eb4d48-60ab-47a8-a4f6-11180c319e89/)
+<ul><li><a href="https://www.udemy.com/certificate/UC-a3eb4d48-60ab-47a8-a4f6-11180c319e89/" target="_blank">React - The Complete Guide</a></li></ul>
+
 </br>
 <p>
 <a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a
