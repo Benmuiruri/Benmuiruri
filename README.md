@@ -12,8 +12,7 @@
 - :rocket: When I am not writing code, I am either watching sports (F1 and Soccer), curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, React, and TypeScript.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
-- :dart: My current goal is to level up my system design skills to write cleaner code.
-- :email: You can reach me via mail: ben.muiruri13@gmail.com let's change the world for the better.
+- :dart: My current goal is to level up my software architecture skills to write cleaner code.
 <h1 align="center">Let's Connect</h1>
 
 <p align="center">
