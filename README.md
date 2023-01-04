@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey there! I'm Ben Kiarie 👋 </h1>
 
-- :ok_man: Currently building cool stuff as a full-stack software engineer.
+- :ok_man: Currently building cool stuff as a Junior Ruby on Rails software engineer at Microverse.
 - :computer: You can checkout my latest projects here at my [portfolio](https://benkiarie.live/)
 - :rocket: When I am not writing code, I am either watching sports (F1 and Soccer), curiously interacting with DeFi applications or out enjoying nature.
 - :fire: I have a passion for Ruby on Rails, React, and TypeScript.
