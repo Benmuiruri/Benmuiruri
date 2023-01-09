@@ -38,6 +38,6 @@
 
 </br>
 <p>
-<a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a
+<a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a
 </p>
 
