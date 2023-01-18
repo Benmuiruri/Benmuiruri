@@ -24,13 +24,6 @@
     <a href="https://benkiarie.live/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColorzz=white alt="Portfolio" /></a>&nbsp;
 </p>
 
-
-### Stats
-  
-|                                                      **My Github Stats**                                                      |                                                      **My Streak**                                                      |                                                      **Languages**                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-| [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benmuiruri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Benmuiruri) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benmuiruri&theme=tokyonight)](https://github.com/Benmuiruri) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benmuiruri&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Benmuiruri) |
-
 <br />
 
 <h2 align="center">Certificates</h2>
