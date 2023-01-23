@@ -5,14 +5,14 @@
 </h3>
 
 
-<h1 align="center">Hey there! I'm Ben Kiarie 👋 </h1>
+<h1 align="center">Hey there👋, I'm Ben Kiarie </h1>
 
 - :ok_man: Currently building cool stuff as a Ruby on Rails software engineer at Microverse.
 - :computer: You can checkout my latest projects here at my [portfolio](https://benkiarie.live/)
 - :rocket: When I am not writing code, I am watching sports (F1 and Soccer), curiously interacting with DeFi applications or hiking.
 - :fire: Dev Stack is mainly Ruby on Rails, React, and TypeScript.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
-<h1 align="center">Let's Connect</h1>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/benjamin-kiarie-180b66149/">
