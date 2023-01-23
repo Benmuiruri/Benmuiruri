@@ -19,7 +19,7 @@
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23fd1315?style=for-the-badge&logo=linkedin">
     </a>
     <a href="https://twitter.com/_optimize">
-        <img alt="Follow me" src="https://img.shields.io/twitter/follow/_optimize?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_optimize">
     </a>
     <a href="https://benkiarie.live/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColorzz=white alt="Portfolio" /></a>&nbsp;
 </p>
