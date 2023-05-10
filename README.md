@@ -34,9 +34,5 @@
     <h3 align="center">Udemy</h3>
     <span><a href="https://www.udemy.com/certificate/UC-a3eb4d48-60ab-47a8-a4f6-11180c319e89/" target="_blank">React - The Complete Guide</a></span>
   </div>
-  <div align="center">
-    <h3 align="center">Others</h3>
-    <a href="https://www.learnenough.com/certificates/08090e07"><img src="https://www.learnenough.com/certificates/08090e07/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
-  </div>
 </div>
 
