@@ -1,12 +1,9 @@
-<div align="center"><img width=500 height=250 align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"></div>.
+<h1 align="center">Hey there👋, I'm Ben Kiarie </h1>
 <div align="center"> 
   <a href="https://github.com/Benmuiruri">
         <img alt="Github visitor count" src="https://komarev.com/ghpvc/?username=Benmuiruri&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
 </div>
-
-
-<h1 align="center">Hey there👋, I'm Ben Kiarie </h1>
 
 - :ok_man: Currently building cool stuff as a Ruby on Rails software engineer at Microverse.
 - :rocket: When I am not writing code, I am watching sports (F1 and Soccer), curiously interacting with DeFi applications or hiking.
