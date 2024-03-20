@@ -7,7 +7,7 @@
 
 - 🏗️ Currently building cool open-source software
 - :rocket: When I am not writing code, I am watching sports (F1 and Soccer), curiously interacting with DeFi applications or hiking.
-- :fire: Dev Stack is mainly Ruby on Rails, React, and TypeScript.
+- :fire: Dev Stack is mainly Ruby on Rails, Angular, and TypeScript.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
 <h2 align="center">Let's Connect</h2>
 
