@@ -9,11 +9,3 @@
 - :fire: My primary dev stack: Ruby on Rails, Angular, NodeJS, TypeScript, PostgreSQL and CouchDB.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
 
-<h2 align="center">Certificates</h2>
-<div align="center">
-  <div align="center">
-    <h3 align="center">Udemy</h3>
-    <span><a href="https://www.udemy.com/certificate/UC-a3eb4d48-60ab-47a8-a4f6-11180c319e89/" target="_blank">React - The Complete Guide</a></span>
-  </div>
-</div>
-
