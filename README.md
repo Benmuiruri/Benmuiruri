@@ -6,12 +6,8 @@
 </div>
 
 - 🏗️ Currently building cool open-source software
-- :rocket: When I am not writing code, I am watching sports (F1 and Soccer), curiously interacting with DeFi applications or hiking.
 - :fire: My primary dev stack: Ruby on Rails, Angular, NodeJS, TypeScript, PostgreSQL and CouchDB.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
-<h2 align="center">Let's Connect</h2>
-
-<br />
 
 <h2 align="center">Certificates</h2>
 <div align="center">
