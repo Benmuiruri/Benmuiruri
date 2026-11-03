@@ -6,6 +6,6 @@
 </div>
 
 - 🏗️ Currently building cool open-source software
-- :fire: My primary dev stack: Ruby on Rails, Angular, NodeJS, TypeScript, PostgreSQL and CouchDB.
+- :fire: My primary dev stack: Ruby on Rails, Angular, React , NextJS, NodeJS / Express, TypeScript, PostgreSQL and CouchDB.
 - :heart: I am a Rubyist because "Ruby was created to make developers happy" - Yukihiro Matsumoto. 
 
